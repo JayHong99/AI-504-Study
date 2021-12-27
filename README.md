@@ -22,7 +22,7 @@
 - 김현수 (Study Member) : 인하대학교 통계학과
 - 윤세준 (Study Member) : 중앙대학교 컴퓨터 예술학부
 - 장진우 (Study Member) : 서강대학교 컴퓨터공학과
-- 홍재성 (Study Leader) : 국민대학교 빅데이터경영통계전공
+- 홍재성 (Study Leader)  : 국민대학교 빅데이터경영통계전공
 
 ---
 
