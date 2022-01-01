@@ -38,5 +38,5 @@
 **스터디 기록**
 |주차|학습 기간|스터디 일자|강의번호|내용|담당|
 |---|---|---|---|---|---|
-|1주차|2021.12.25~2022.01.05|2022.01.06(금) 19:00|Lecture1<br>Lecture2<br>Lecture3<br>Lecture4|Introduction<br>Numpy<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>고민성|
+|1주차|2021.12.25~2022.01.05|2022.01.06(금) 19:00|Lecture1<br>Lecture2<br>Lecture3<br>Lecture4|Introduction<br>Numpy<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>윤세준|
 
