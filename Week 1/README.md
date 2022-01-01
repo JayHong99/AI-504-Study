@@ -10,7 +10,7 @@
 **스터디 기록**
 |강의번호|내용|담당|Link to page|
 |---|---|---|---|
-|Class 1|Introduction|김현수||
+|Class 1|Introduction|김현수|https://github.com/JayHong99/AI-504-Study/tree/master/Week%201/Class%201|
 |Class 2|Numpy|고민성||
 |Class 3|Sklearn 이론|장진우||
 |Class 4|Sklearn 실습|윤세준||
