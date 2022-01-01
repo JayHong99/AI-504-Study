@@ -1,5 +1,5 @@
 # AI 504 "Programming for AI"
-- KAIST 김재철AI 대학원 소속 Edward Yoonjae choi 교수님의 강의
+- KAIST 김재철AI 대학원 Edward Yoonjae choi 교수님의 강의
     - Professor's Page : https://mp2893.com/
 - 최신 강의 (2020년 가을)
 - 딥러닝 이론 + 코딩으로 구성된 강의
@@ -22,15 +22,16 @@
 - 김현수 (Study Member) : 인하대학교 통계학과
 - 윤세준 (Study Member) : 중앙대학교 컴퓨터 예술학부
 - 장진우 (Study Member) : 서강대학교 컴퓨터공학과
-- 홍재성 (Study Leader) : 국민대학교 빅데이터경영통계전공
+- 홍재성 (Study Leader)   : 국민대학교 빅데이터경영통계전공
 
 ---
 
 **스터디 방법** : 
-- 주 1회 강의 4개를 모두 공부
-- Study Memeber는 각 스터디 때 정리 + 발표
-- 공부 중 이해가 안되는 부분이 있으면 메모해둔 후 정기 스터디에서 질문
+- 매주 강의 4개를 모두 공부
+- 주 1회 온/오프라인 스터디에서 이해 안된 부분 + 논의할만한 내용 토의
 - Study Leader는 그 다음주 스터디 내용에 관한 간략한 요약 + Github에 정리 내용 업로드 등 스터디 관리
+- Study Memeber는 각 스터디 때 정리 + 발표
+
 
 ---
 
