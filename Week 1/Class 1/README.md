@@ -8,7 +8,7 @@
 
 # Class 1 : Introduction
 
-## 1. Summarization by JayHong99
+## 1. Summarization by JayHong99 (Study Leader)
 - More Study Info at : https://jayhong1999.notion.site/AI504-Study-3254606f482e4b7c893a82189275c941
 
 ### 1) Intro to AI
