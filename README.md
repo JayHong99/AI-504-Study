@@ -37,7 +37,7 @@
 **스터디 기록**
 |주차|학습 기간|스터디 일자|강의번호|내용|담당|비고|
 |---|---|---|---|---|---|---|
-|1주차|21.12.25~22.01.09|2022.01.06(금) 19:00|Lecture1<br>Lecture2<br>Lecture3<br>Lecture4|Introduction<br>Numpy 실습<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>윤세준||
+|1주차|21.12.25~22.01.09|22.01.06(금) 19:00|Lecture1<br>Lecture2<br>Lecture3<br>Lecture4|Introduction<br>Numpy 실습<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>윤세준||
 |2주차|22.01.10 ~ 22.01.16||Lecture5<br>Lecture6<br>Lecture7<br>Lecture8|Logistic Regression & NN 이론<br>Pytorch & NN 실습<br>AutoEncoder 이론<br>AutoEncoder 실습|||
 |3주차|22.01.17 ~ 22.01.23||Lecture9<br>Lecture10<br>Lecture11<br>Lecture12|Variation AutoEncoder 이론<br>Variation AutoEncoder 실습<br> GAN 이론 <br> GAN 실습|| out PJ1|
 |4주차|22.01.24 ~ 22.01.30||Lecture13<br>Lecture14<br>Lecture15<br>Lecture16|CNN 이론 <br> CNN 실습 <br> Word Embedding 이론 <br> Word Embedding 실습||due PJ1|
