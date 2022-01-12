@@ -8,9 +8,9 @@
 
 
 **스터디 기록**
-|강의번호|내용|
+|강의번호|내용|담당|
 |---|---|---|
-|Class 1|Introduction|김현수|
-|Class 2|Numpy 실습|고민성|
-|Class 3|Sklearn 이론|장진우|
-|Class 4|Sklearn 실습|윤세준|
+|Class 5|Logistic Regression & NN 이론|김현수|
+|Class 6|Pytorch & NN 실습|고민성|
+|Class 7|Autoencoder 이론|윤세준|
+|Class 8|Autoencoder 실습|장진우|

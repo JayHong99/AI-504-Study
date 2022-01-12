@@ -6,11 +6,4 @@
 - 다양한 방법론 수업
 - 강의자료 : https://mp2893.com/course.html
 
-
-**스터디 기록**
-|강의번호|내용|
-|---|---|---|
-|Class 1|Introduction|김현수|
-|Class 2|Numpy 실습|고민성|
-|Class 3|Sklearn 이론|장진우|
-|Class 4|Sklearn 실습|윤세준|
+# Class 07 - Autoencoder 이론
