@@ -21,7 +21,7 @@
 - 김현수 (Study Member) : 인하대학교 통계학과
 - 윤세준 (Study Member) : 중앙대학교 컴퓨터 예술학부
 - 장진우 (Study Member) : 서강대학교 컴퓨터공학과
-- 홍재성 (Study Leader)   : 국민대학교 빅데이터경영통계전공
+- 홍재성 (Study Leader) : 국민대학교 빅데이터경영통계전공
 
 ---
 
@@ -37,9 +37,9 @@
 **스터디 기록**
 |주차|학습 기간|스터디 일자|강의번호|내용|담당|비고|
 |---|---|---|---|---|---|---|
-|1주차|21.12.25<br>~<br>22.01.09|01.06(금) <br>19:00~22:00|Lecture1<br>Lecture2<br>Lecture3<br>Lecture4|Introduction<br>Numpy 실습<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>윤세준||
-|2주차|22.01.10<br>~<br>22.01.16|01.14(금) 19:00|Lecture5<br>Lecture6<br>Lecture7<br>Lecture8|Logistic Regression & NN 이론<br>Pytorch & NN 실습<br>AutoEncoder 이론<br>AutoEncoder 실습|김현수<br>고민성<br>윤세준<br>장진우<br>||
-|3주차|22.01.17<br>~<br>22.01.23||Lecture9<br>Lecture10<br>Lecture11<br>Lecture12|Variation AutoEncoder 이론<br>Variation AutoEncoder 실습<br> GAN 이론 <br> GAN 실습|| out PJ1|
+|1주차|21.12.25<br>~<br>22.01.09|01.06(금) <br>19:00~22:00|Lecture01<br>Lecture02<br>Lecture03<br>Lecture04|Introduction<br>Numpy 실습<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>윤세준||
+|2주차|22.01.10<br>~<br>22.01.16|01.14(금) 19:00|Lecture5<br>Lecture06<br>Lecture07<br>Lecture08|Logistic Regression & NN 이론<br>Pytorch & NN 실습<br>AutoEncoder 이론<br>AutoEncoder 실습|김현수<br>고민성<br>윤세준<br>장진우<br>||
+|3주차|22.01.17<br>~<br>22.01.23||Lecture09<br>Lecture10<br>Lecture11<br>Lecture12|Variation AutoEncoder 이론<br>Variation AutoEncoder 실습<br> GAN 이론 <br> GAN 실습|| out PJ1|
 |4주차|22.01.24<br>~<br>22.01.30||Lecture13<br>Lecture14<br>Lecture15<br>Lecture16|CNN 이론 <br> CNN 실습 <br> Word Embedding 이론 <br> Word Embedding 실습||due PJ1|
 |5주차|22.01.31<br>~<br>22.02.06||Lecture17<br>Lecture18<br>Lecture19<br>Lecture20|RNN 이론 <br> RNN 실습 <br> Image to Text 이론 <br> Image to Text 실습|||
 |6주차|22.02.07<br>~<br>22.02.13||Lecture21<br>Lecture22<br>Lecture23<br>Lecture24|Transformer 이론 <br> Transformer 실습 <br> BERT & GPT 이론 <br> BERT & GPT 실습||out PJ2|
