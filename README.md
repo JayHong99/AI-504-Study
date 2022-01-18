@@ -38,7 +38,7 @@
 |주차|학습 기간|스터디 일자|강의번호|내용|담당|비고|
 |---|---|---|---|---|---|---|
 |1주차|21.12.25<br>~<br>22.01.09|01.06(금) <br>19:00~22:00|Lecture01<br>Lecture02<br>Lecture03<br>Lecture04|Introduction<br>Numpy 실습<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>윤세준||
-|2주차|22.01.10<br>~<br>22.01.16|01.14(금) 19:00|Lecture05<br>Lecture06<br>Lecture07<br>Lecture08|Logistic Regression & NN 이론<br>Pytorch & NN 실습<br>AutoEncoder 이론<br>AutoEncoder 실습|김현수<br>고민성<br>윤세준<br>장진우<br>|| 
+|2주차|22.01.10<br>~<br>22.01.16|01.14(금) <br>19:00~22:00|Lecture05<br>Lecture06<br>Lecture07<br>Lecture08|Logistic Regression & NN 이론<br>Pytorch & NN 실습<br>AutoEncoder 이론<br>AutoEncoder 실습|김현수<br>고민성<br>윤세준<br>장진우<br>|| 
 |3주차|22.01.17<br>~<br>22.01.23|01.21(금) 19:00|Lecture09<br>Lecture10<br>Lecture11<br>Lecture12|Variation AutoEncoder 이론<br>Variation AutoEncoder 실습<br> GAN 이론 <br> GAN 실습|장진우<br>홍재성<br>김현수<br>고민성|PJ 논의|
 |4주차|22.01.24<br>~<br>22.01.30||전체 복습 +<br> Project with GAN|3주차까지 다룬 전체 Pipeline에 대한 복습 <br>+ GAN을 이용한 하나의 프로젝트 진행||PJ 마감|
 |5주차|22.01.31<br>~<br>22.02.06||Lecture13<br>Lecture14<br>Lecture15<br>Lecture16|CNN 이론 <br> CNN 실습 <br> Word Embedding 이론 <br> Word Embedding 실습||due PJ1|
