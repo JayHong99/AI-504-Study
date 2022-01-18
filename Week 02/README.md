@@ -12,5 +12,5 @@
 |---|---|---|
 |Class 5|Logistic Regression & NN 이론|김현수|
 |Class 6|Pytorch & NN 실습|고민성|
-|Class 7|Autoencoder 이론|윤세준|
+|Class 7|Autoencoder 이론|홍재성|
 |Class 8|Autoencoder 실습|장진우|
