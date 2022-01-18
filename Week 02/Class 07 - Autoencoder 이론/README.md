@@ -7,3 +7,5 @@
 - 강의자료 : https://mp2893.com/course.html
 
 # Class 07 - Autoencoder 이론
+
+https://github.com/JayHong99/Study/tree/main/AI504/Class%2007%20AutoEncoder%20%EC%9D%B4%EB%A1%A0
