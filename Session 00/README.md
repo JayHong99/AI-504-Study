@@ -33,32 +33,10 @@
 
 ---
 
-**Study Session SPlit**
-- 2022.01.21 스터디 중 논의를 통해 2개의 Session을 만들었습니다.
-
-- Session 00
-    - CNN까지의 내용을 정리하여 담아두었습니다.
-
-- Session 01
-    - Study Member 그대로 유지
-    - CNN까지 수강 후, 실습 진행
-    - 자세한 내용은 Session 01 폴더에서 확인
-
-- Session 02
-    - 홍재성, 장진우 2명이서 진행
-    - 자세한 내용은 Session 02 폴더에서 확인
-
----
-
 **스터디 기록**
 |주차|학습 기간|스터디 일자|강의번호|내용|담당|비고|
 |---|---|---|---|---|---|---|
 |1주차|21.12.25<br>~<br>22.01.09|01.06(금) <br>19:00~22:00|Lecture01<br>Lecture02<br>Lecture03<br>Lecture04|Introduction<br>Numpy 실습<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>홍재성||
 |2주차|22.01.10<br>~<br>22.01.16|01.14(금) <br>19:00~22:00|Lecture05<br>Lecture06<br>Lecture07<br>Lecture08|Logistic Regression & NN 이론<br>Pytorch & NN 실습<br>AutoEncoder 이론<br>AutoEncoder 실습|김현수<br>고민성<br>홍재성<br>장진우<br>|| 
-|3주차|22.01.17<br>~<br>22.01.23|01.21(금) 19:00|Lecture09<br>Lecture10<br>Lecture11<br>Lecture12|Variation AutoEncoder 이론<br>Variation AutoEncoder 실습<br> GAN 이론 <br> GAN 실습|장진우<br>홍재성<br>김현수<br>고민성|PJ 논의|
-|4주차|22.01.24<br>~<br>22.01.30||전체 복습 +<br> GAN Project|1~12강 복습<br>+ GAN을 이용한 프로젝트||PJ 마감|
-|5주차|22.01.31<br>~<br>22.02.06||Lecture13<br>Lecture14<br>Lecture15<br>Lecture16|CNN 이론 <br> CNN 실습 <br> Word Embedding 이론 <br> Word Embedding 실습||due PJ1|
-|6주차|22.02.07<br>~<br>22.02.13||Lecture17<br>Lecture18<br>Lecture19<br>Lecture20|RNN 이론 <br> RNN 실습 <br> Image to Text 이론 <br> Image to Text 실습|||
-|7주차|22.02.14<br>~<br>22.02.20||Lecture21<br>Lecture22<br>Lecture23<br>Lecture24|Transformer 이론 <br> Transformer 실습 <br> BERT & GPT 이론 <br> BERT & GPT 실습||out PJ2|
-|8주차|22.02.21<br>~<br>22.02.27||Lecture25<br>Lecture26<br>Lecture27<br>Lecture28|Graph NN 이론 <br> Graph NN 실습 <br> Neural ODE 이론 <br> Neural ODE ||due PJ2|
+|3주차|22.01.17<br>~<br>22.01.23|01.21(금) 19:00|Lecture09<br>Lecture10<br>Lecture11<br>Lecture12|Variation AutoEncoder 이론<br>Variation AutoEncoder 실습<br> GAN 이론 <br> GAN 실습|장진우<br>홍재성<br>김현수<br>고민성|Session Split|
 

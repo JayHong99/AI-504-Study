@@ -6,4 +6,6 @@
 - 다양한 방법론 수업
 - 강의자료 : https://mp2893.com/course.html
 
-# Class 10 - Variational Autoencoder 이론
+# Class 10 - Variational Autoencoder 실습
+
+- https://github.com/JayHong99/Study/tree/main/AI504/Class%2010%20Variational%20Encoder%20%EC%8B%A4%EC%8A%B5
