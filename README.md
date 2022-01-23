@@ -56,3 +56,17 @@
 |1주차|21.12.25<br>~<br>22.01.09|01.06(금) <br>19:00~22:00|Lecture01<br>Lecture02<br>Lecture03<br>Lecture04|Introduction<br>Numpy 실습<br>Sklearn 이론<br>Sklearn 실습|김현수<br>고민성<br>장진우<br>홍재성||
 |2주차|22.01.10<br>~<br>22.01.16|01.14(금) <br>19:00~22:00|Lecture05<br>Lecture06<br>Lecture07<br>Lecture08|Logistic Regression & NN 이론<br>Pytorch & NN 실습<br>AutoEncoder 이론<br>AutoEncoder 실습|김현수<br>고민성<br>홍재성<br>장진우<br>|| 
 |3주차|22.01.17<br>~<br>22.01.23|01.21(금) 19:00|Lecture09<br>Lecture10<br>Lecture11<br>Lecture12|Variation AutoEncoder 이론<br>Variation AutoEncoder 실습<br> GAN 이론 <br> GAN 실습|장진우<br>홍재성<br>김현수<br>고민성|Session 00<br>Session01,02 Start|
+
+**Session01**
+|4주차|22.01.24<br> ~ <br>22.01.31|22.01.31<br>19:00~|Fashin MNIST Dataset with PyTorch<br>MLP Classifier<br>Auto Encoder<br>VAE|해당 데이터 이용<br>Maximize Test ACC<br>Minimize Test Loss<br>Minimize Test Loss|
+|5주차|22.01.31<br> ~ <br>22.02.06||Fashion MNIST Dataset with PyTorch<br>VGG16 구현<br>ResNet18 구현||
+|6주차|22.02.07<br> ~ <br>22.02.13||Celeb-A Dataset with PyTorch<br>GAN 구현<br>DCGAN 구현|Minimize FID Score|
+|7주차|22.02.14<br> ~ <br>22.02.20||Celeb-A Dataset with PyTorch<br>여러 GAN 중 하나 구현하기|https://github.com/eriklindernoren/PyTorch-GAN|
+|8주차|22.02.21<br> ~ <br>22.02.27||7주차 논의 후 프로젝트 진행||
+
+**Session02**
+|4주차|22.01.24<br>~<br>22.01.31|22.01.31|Lecture15&Lecture16<br>Lecture17&Lecture18|Word Embedding 이론&실습 <br>RNN 이론&실습|홍재성<br>장진우||
+|5주차|22.01.31<br>~<br>22.02.06||Lecture19<br>Lecture20|Image to Text 이론 <br> Image to Text 실습|||
+|6주차|22.02.07<br>~<br>22.02.13||Lecture21<br>Lecture22|Transformer 이론 <br> Transformer 실습|||
+|7주차|22.02.14<br>~<br>22.02.20||Lecture23<br>Lecture24|BERT & GPT 이론 <br> BERT & GPT 실습|||
+|8주차|22.02.21<br>~<br>22.02.27||Lecture25&Lecture26<br>Lecture27&Lecture28|Graph NN 이론 & 실습 <br> Neural ODE 이론 & 실습 |||
