@@ -45,7 +45,7 @@
 
 **스터디 기록**
 |주차|학습 기간|스터디 일자|스터디 내용|비고|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |4주차|22.01.24<br> ~ <br>22.01.31|22.01.31|Fashin MNIST Dataset with PyTorch<br>MLP Classifier<br>Auto Encoder<br>VAE|해당 데이터 이용<br>Maximize Test ACC<br>Minimize Test Loss<br>Minimize Test Loss|
 |5주차|22.01.31<br> ~ <br>22.02.06||Fashion MNIST Dataset with PyTorch<br>VGG16 구현<br>ResNet18 구현||
 |6주차|22.02.07<br> ~ <br>22.02.13||Celeb-A Dataset with PyTorch<br>GAN 구현<br>DCGAN 구현|Minimize FID Score|
