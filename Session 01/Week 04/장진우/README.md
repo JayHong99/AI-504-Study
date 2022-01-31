@@ -11,6 +11,6 @@
 **스터디 기록**
 |구현 내용|구현 여부|Target Score Record|비고|
 |---|---|---|---|
-|MLP Classifier||||
-|1D Auto Encoder||||
-|1D VAE|||
+|MLP Classifier|O|87.83||
+|1D Auto Encoder|O|||
+|1D VAE|X||
