@@ -11,6 +11,5 @@
 **스터디 기록**
 |구현 내용|구현 여부|Target Score Record|비고|
 |---|---|---|---|
-|MLP Classifier||||
-|1D Auto Encoder||||
-|1D VAE|||
+|VGG16|O|93.67||
+|ResNet|O|93.73||
