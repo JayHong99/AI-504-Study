@@ -42,5 +42,5 @@
 |4주차|22.01.24<br>~<br>22.01.31|22.01.31|Lecture15&Lecture16<br>Lecture17&Lecture18|Word Embedding 이론&실습 <br>RNN 이론&실습|홍재성<br>장진우||
 |5주차|22.01.31<br>~<br>22.02.06||Lecture19<br>Lecture20|Image to Text 이론 <br> Image to Text 실습|장진우||
 |6주차|22.02.07<br>~<br>22.02.13||Lecture21<br>Lecture22|Transformer 이론 <br> Transformer 실습|||
-|7주차|22.02.14<br>~<br>22.02.20||Lecture23<br>Lecture24|BERT & GPT 이론 <br> BERT & GPT 실습|||
+|7주차|22.02.14<br>~<br>22.02.20||Lecture23<br>Lecture24|BERT & GPT 이론 <br> BERT & GPT 실습|장진우||
 |8주차|22.02.21<br>~<br>22.02.27||Lecture25<br>Lecture26<br>Lecture27<br>Lecture28|Graph NN 이론 <br> Graph NN 실습 <br> Neural ODE 이론 <br> Neural ODE |||
