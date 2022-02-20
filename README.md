@@ -61,16 +61,14 @@
 |주차|학습 기간|스터디 일자|스터디 내용|비고|
 |---|---|---|---|---|
 |4주차|22.01.24<br> ~ <br>22.01.31|22.01.31<br>19:00~|Fashin MNIST Dataset with PyTorch<br>MLP Classifier<br>Auto Encoder<br>VAE|해당 데이터 이용<br>Maximize Test ACC<br>Minimize Test Loss<br>Minimize Test Loss|
-|5주차|22.01.31<br> ~ <br>22.02.06||Fashion MNIST Dataset with PyTorch<br>VGG16 구현<br>ResNet18 구현||
-|6주차|22.02.07<br> ~ <br>22.02.13||Celeb-A Dataset with PyTorch<br>GAN 구현<br>DCGAN 구현|Minimize FID Score|
-|7주차|22.02.14<br> ~ <br>22.02.20||Celeb-A Dataset with PyTorch<br>여러 GAN 중 하나 구현하기|https://github.com/eriklindernoren/PyTorch-GAN|
-|8주차|22.02.21<br> ~ <br>22.02.27||7주차 논의 후 프로젝트 진행||
+|5주차|22.01.31<br> ~ <br>22.02.06|22.02.04<br>21:00~|Fashion MNIST Dataset with PyTorch<br>VGG16 구현<br>ResNet18 구현||
+|6주차|22.02.07<br> ~ <br>22.02.13|22.02.11<br>22:00~|Celeb-A Dataset with PyTorch<br>GAN 구현<br>DCGAN 구현|Minimize FID Score|
+|7주차|22.02.14<br> ~ <br>22.02.20|22.02.19<br>22:00~|각자 여러 GAN 중 하나 찾고, 구현|https://github.com/eriklindernoren/PyTorch-GAN|
 
 **Session02**
 |주차|학습 기간|스터디 일자|강의번호|내용|담당|비고|
 |---|---|---|---|---|---|---|
 |4주차|22.01.24<br>~<br>22.01.31|22.01.31|Lecture15&Lecture16<br>Lecture17&Lecture18|Word Embedding 이론&실습 <br>RNN 이론&실습|홍재성<br>장진우||
 |5주차|22.01.31<br>~<br>22.02.06||Lecture19<br>Lecture20|Image to Text 이론 <br> Image to Text 실습|||
-|6주차|22.02.07<br>~<br>22.02.13||Lecture21<br>Lecture22|Transformer 이론 <br> Transformer 실습|||
-|7주차|22.02.14<br>~<br>22.02.20||Lecture23<br>Lecture24|BERT & GPT 이론 <br> BERT & GPT 실습|||
-|8주차|22.02.21<br>~<br>22.02.27||Lecture25&Lecture26<br>Lecture27&Lecture28|Graph NN 이론 & 실습 <br> Neural ODE 이론 & 실습 |||
+|6주차|22.02.07<br>~<br>22.02.13||Lecture21<br>Lecture22|Transformer 이론|||
+|7주차|22.02.14<br>~<br>22.02.20||Lecture23<br>Lecture24|BERT & GPT 이론<br>프로젝트 계획||https://github.com/JayHong99/Image2Text |
