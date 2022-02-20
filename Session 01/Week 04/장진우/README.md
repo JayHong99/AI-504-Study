@@ -13,4 +13,4 @@
 |---|---|---|---|
 |MLP Classifier|O|87.83||
 |1D Auto Encoder|O|||
-|1D VAE|X||
+|1D VAE|O||
